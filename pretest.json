@@ -1,0 +1,57 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  Which of the following is a byproduct of RBC breakdown?",
+      "answers": {
+        "a": "Insulin",
+        "b": "Bilirubin",
+        "c": "Hemoglobin",
+        "d": "Streptaviridin"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.  Hemoglobin is a ________ containing bio molecule.",
+      "answers": {
+        "a": " Helix-Loop-Helix",
+        "b": "Zinc Finger",
+        "c": "Iron",
+        "d": "Cadmium."
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. A person with Rh+blood cannot receive blood from a person with Rh- blood without any problems.",
+      "answers": {
+        "a": "True.",
+        "b": "False."
+      
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Which of the following statements is true about ABO blood system?",
+        "answers": {
+          "a": "It was discovered in the 1950s",
+          "b": "It was discovered by Karl Landsteiner.",
+          "c": "Few people are actually typed for this system because of the difficulty of the procedure and high cost",
+          "d": "It was discovered in the 1950s by Karl Landsteiner."
+        },
+
+            
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}

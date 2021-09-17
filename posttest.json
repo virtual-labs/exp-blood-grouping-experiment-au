@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which is a classical example of codominance ?",
+      "answers": {
+        "a": "Blood Type O",
+        "b": "Blood Type A",
+        "c": "Blood Type B",
+        "d": "Blood Type AB"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which of the following statements is true?",
+      "answers": {
+        "a": " Specific ABO blood types are known to be linked with increased or decreased susceptibility to particular diseases.",
+        "b": "Antibodies to alien antigens in ABO group may be present in one's body prior to the first contact with blood of a different ABO type.",
+        "c": "When our blood comes in contact with blood of a different type, our bodies can develop long-term immunity to the alien blood type.",
+        "d": "All the above."
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. People of blood group Ab can donate blood to _________.",
+      "answers": {
+        "a": "A,B,AB,O",
+        "b": "B and A",
+        "c": "A and O",
+        "d": "AB"
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4. People of blood group O can receive blood from _______. ",
+        "answers": {
+          "a": "AB.",
+          "b": "O.",
+          "c": "A.",
+          "d": "A,AB,B and O."
+        },
+
+            
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
